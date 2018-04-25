@@ -1,2 +1,2 @@
 # hello-world
-<H1> Hello world first test of git </H1>
+<H2> Hello world first test of git </H2>
